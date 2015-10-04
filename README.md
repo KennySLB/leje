@@ -104,6 +104,8 @@ contacter stephane tual
 
 contacter kevin slavin
 
+demander a michel bauwens et son pote sils peuvent maider pour la partie commons pour le jeu
+
 4/ Brainstorm pour faire avancer le projet
 
 Tu comptes exploiter des algorithmes d'apprentissage (cf. Piaget ou Argyris & Schons pour les modèles psycho) ? Ou alors des algorithmes de prises de décision ? Est-ce qu'il y a un système d'IA pour que le jeu apprenne et soit personnalisé à chaque joueur ?
