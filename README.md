@@ -2,6 +2,8 @@
 
 You will find the french details after the english version ;)
 
+The english version is run through a gamification model called Octalysis developed by Yu-kai Chou
+
 DESCRIPTION
 
 I am walking in the street. A need arises. I take out my mobilphone. I got it everywhere. I type my need in Le Je. Le Je shows me the smallest action possible I can take right now. And the next..and the next…etc. Until the need is blooming. A great iteration.
@@ -59,6 +61,76 @@ What are the goals today ?
 What do we need to prototype ?
 
 Crossing the algorithms of needs with the algorithms behind language. It’s all about language as we can see with Google or Facebook for examples.
+
+ANALYSIS THROUGH THE 8 CORE DRIVES
+
+1) Epic Meaning & Calling
+
+When a player upload a new algorithm of life (like building a community), it helps every other player going through the same experience.
+It’s the player’s own quest linked to the big quest the human species is living.
+
+2) Development & Accomplishment
+
+An algorithm is a series of steps to come to a result. So each completion of a step is an accomplishment to the fulfilment of the specific need.
+
+There will also be “levels of needs”. The player feel good about themselves when they reach a new level of development.
+
+
+3) Empowerment of Creativity & Feedback
+
+Le Je lets people express their core creativity : sharing the most basic or complex algorithms running their everyday lives.
+
+When other players try the algorithms another player uploaded. They can give him feedback. 
+
+What about the efficiency of this algorithm ? What can be changed to make it more efficient ? 
+
+I got this algorithm dealing with the same problem, let’s share and let’s see what people like the most.
+Could we take your algorithm and mine and create a third algorithm dealing about the specific issue ?
+
+4) Ownership & Possession
+
+The avatar is her own avatar. Customize to reflect her personality on the most basic level (values, strengths, passions, goal in life).
+
+The player get coins when he upload the game or the algorithms of the game.
+
+Some player will surely have their set of algorithms and be proud of that.
+
+5) Social Influence & Relatedness
+
+A player can craft a totally new and useful algorithms. Lots of player will feel good thanks to this guy.
+
+Some algorithm will new teamwork to be created, and they’ll new teamwork to be completed. When you build a house, you need to include people in the process.
+That is why, I find it interesting that the game is in mobilphone. So the player could directly text or call the person he needs to fulfil his needs.
+
+A player can see her friends reaching a certain level of development in the game. And feeling the need to get there.
+
+A kind of mentorship can be developed. If a player runs well on an algorithm it has become a habit. So this is easy for him.
+But a newbie comes and get a hard time with this same algorithm. He could ask the habit player for help, guidance…
+
+6) Scarcity & Impatience
+
+We can add a leaderboard with the pour cent of people reaching the levels of development. So people at the bottom of the level will have the desire to go top.
+
+Same with the number of algorithms a person have uploaded in each levels.
+
+7) Unpredictability & Curiosity
+
+When you start Le Je. It asks “what do you need ?”
+
+The player then reply about his need. And the algorithm of the game gives him the process/algorithms corresponding to the specific need. Or it can give him the next smallest action to the fulfilment of the need (in this case, there is a lot more unpredictability because the player won’t really know what path he will walk!).
+When we want something, we don’t really know HOW to get it. So the path is often chaotic and unpredictable.
+For hardcore gamer of Le Je, it is unpredictable too. Because when all your needs are met, there is no other level of development and no other algorithms to run. 
+God, who knows what will come next ? What needs will arise ? What algorithms will be created to meet those needs ?
+
+8) Loss & Avoidance
+
+A player got an idea to evolve the game or an algorithms part of the game, if he don’t act quickly. Another player may have upload the evolution he saw. And losing the coins associated with the evolution.
+
+Leaving the game means losing all of the upload algorithms and coins. And the network developed there.
+
+
+
+
 
 
 IN FRENCH =
@@ -124,13 +196,12 @@ et coder les principes universels de développement humains.
 
 D'après mes courtes recherches, tout tend vers un codage des algorithmes du langage.  ==> Ricard Solé, Bernat Corominas-Murtra et Jordi Fortuny e linguiste américain Derek Bickerton
 
-la certif de yukai chou
-
 Quels sont vos objectifs dans 3 ans?
 
 Quels sont vos objectifs dans 5 ans?
 
 Quelles difficultés rencontrez-vous aujourd'hui?
+
 
 
 
