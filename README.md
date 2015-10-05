@@ -1,4 +1,68 @@
 # Le Je
+
+You will find the french details after the english version ;)
+
+DESCRIPTION
+
+I am walking in the street. A need arises. I take out my mobilphone. I got it everywhere. I type my need in Le Je. Le Je shows me the smallest action possible I can take right now. And the next..and the next…etc. Until the need is blooming. A great iteration.
+Wonderful to test new ways of blooming a need : new habits.
+
+Which problem this game tackle ?
+
+Today, we die of work. We die of sugar. We die because we are underfeed. We die because we are overfeed. We take drugs that are adulterated. We feed on superficial and blocking conflicts. We suicide. We eat a massive amount of antidepressants. 
+Young people don’t know what to do with their lives, older people don’t know too; and education don’t help much. 
+In the same time, it’s a challenge to find a job that fulfills us. And I’m not going to talk about opening a business to generate activity with other people.
+
+The war is not the most destructive things on earth. Our limits are ! (http://www.worldlifeexpectancy.com/world-rankings-total-deaths)
+
+I am super optimist even if our global situation is kind of shitty. We are not tackling a specific problem but we tackle a paradigm creating a lot of problems all interconnected with each other.
+
+So facing boredom and the lack of meaning generalised by some paradigms, it is time to take concrete measures : LET’S PLAY TOGETHER.
+
+What is the solution to answer this problem ?
+
+Le Je. To play in advancing life.
+Le Je is a game where we embody our own avatar in an exponential quest. The goal of this quest is to advance the spiral of life.
+
+The project in more details :
+
+Life is full of process : steps to come to a result. It is the definition of an algorithm. Le Je is a game where we experiment on those algorithms. We play and learning life at the same time. The players of Le Je have the possibilities to evolve the algorithms of life when reality prove they are obsolete. The players also have the possibility to make the game evolve when we find more about the game’s algorithms.
+
+Each evolution of the game brings money or coins. Each creation or modification of the algorithms bring coins too.
+A kind a mining process to earn coins like in Ethereum or Bitcoin or other cryptocurrencies.
+So a blockchain system is integrated in the design of Le Je for trust and managing flows.
+
+Le Je is a kind of governance system for our human activities. It is important that it be accessible through text messaging or mobilphone so each and everybody could play it.
+
+Le Je is a fusion of mmorpg, algorithms of life, simplicity and accessibility of google, adaptability of wikipédia, GTD method, Holacracy and mobilphone.
+
+What is the profound and exhilarating goal ?
+
+Human species would have discovered itself playing to explore life. We would have advance life through playing and laughing together. We would have imagine our futur together.
+The goal is to discover ourself deeply and explore life.
+
+For example :
+
+I need to create a business, the game gives the process.
+I need to create a house, the game gives the step by step process.
+I need to create a community based on value, let’s go and Le Je helps me.
+
+And this, for every process we could think of.
+Of course, we will find way to do better. That is why the game needs to be evolving and modular for players.
+
+What are the goals today ?
+
+1/ To find people to challenge the game so it can evolve and become a prototype.
+2/ The needs of the game be extremely clear so that people can position themselves on the game.
+3/ Creating a prototype as soon as possible. On a website and an app.
+
+What do we need to prototype ?
+
+Crossing the algorithms of needs with the algorithms behind language. It’s all about language as we can see with Google or Facebook for examples.
+
+
+IN FRENCH =
+
 Je me balade. J'ai un besoin. Je sors mon portable de ma poche. Je l'ai sur moi en permanence.
 Je tape mon besoin dans le Je. Le Je me montre la plus petite action que je puisse faire maintenant. Et la suivante...etc.. Jusqu'à l'épanouissement du besoin.
 La belle itération. Idéal pour tester de nouvelles manières d'épanouir un besoin; de nouvelles habitudes ;)
