@@ -227,19 +227,13 @@ Need contact dans les entreprises téléphoniques du monde entier. need présent
 
 need contact avec les constructeurs de telephone.
 
-Need contact avec l'école de xavier niel et simplon. need présentation du projet à ces communautés.
-
 ric@enseeiht.fr Responsable des Relations industrielles a  enseeiht
 Martial Coulon
 et leur asso d'inge = https://ain7.com/
 
-info@ethereum.org
-
 contacter stephane tual
 
 contacter kevin slavin
-
-demander a michel bauwens et son pote sils peuvent maider pour la partie commons pour le jeu
 
 4/ Brainstorm pour faire avancer le projet
 
